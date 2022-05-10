@@ -2,8 +2,8 @@
 ```
 Cafe Menu App, with a frontend built in React & Redux and a backend built in Django API.
 ```
-Check out [FRONTEND LIVE DEMO](https://frontend-salem.herokuapp.com/) here!!
-Check out [API LIVE DEMO](https://backend-mike.herokuapp.com/) here!!
+Check out [FRONTEND LIVE DEMO](/) here!!
+Check out [API LIVE DEMO](/) here!!
 ## Tech used
 ```
 * Frontend : React & Redux
@@ -12,7 +12,7 @@ Check out [API LIVE DEMO](https://backend-mike.herokuapp.com/) here!!
 ## How to Install
 1. Git Clone
 ```
-git clone https://github.com/Printaro-GD/Printaro-GD.git
+git clone
 ```
 2. Backend setting
 ```
